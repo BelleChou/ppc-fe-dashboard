@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ppc-monitor
 
 This page is the user story about how the users use PPC Dashboard to monitor backup operations.
@@ -23,3 +24,6 @@ Function 4: get detailed information about all backup jobs from the table. You c
 
 
 
+=======
+# ppc-fe-dashboard
+>>>>>>> 7ec03422c978bc6cd2173aabe275f31f25b23bb6
